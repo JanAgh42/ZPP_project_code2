@@ -1,0 +1,19 @@
+1
+yLiber
+Malinova 97,Bratislava
+
+2
+Stylus
+Jahodova 3, Bratislava
+
+3
+Capulus
+Jablkova 61, Bratislava
+
+4
+Vibro
+Slivkova 97, Bratislava
+
+5
+Skoda
+Marhulova 17, Bratislava
