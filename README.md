@@ -1,4 +1,1 @@
-
-A simple C program reading from and writing to basic .txt files.
-
-**ARCHIVED ON 19.2.2022**
+A simple C program that allows the user do add, edit, delete and read entries from two basic .txt files, one containing a list of manufacturers and the other a list of their products.
